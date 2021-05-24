@@ -1,4 +1,4 @@
-# Revisa Desocupado
+# Revista Desocupado
 
 Revista de noticias con un enfoque cultural
 
