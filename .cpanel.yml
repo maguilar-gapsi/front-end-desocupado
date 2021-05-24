@@ -1,0 +1,5 @@
+--
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/creati40/public_html/revistadesocupado/
+    - /bin/cp -R * $DEPLOYPATH
