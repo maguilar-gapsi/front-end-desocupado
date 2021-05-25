@@ -9,3 +9,4 @@ Revista de noticias con un enfoque cultural
 - JAVASCRIPT
 - JQUERY
 - BOOSTRAP
+- PHP
